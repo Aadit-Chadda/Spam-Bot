@@ -1,0 +1,3 @@
+Hi everyone!
+I would like to apoligise as I cannot provide you guys the virtual environment of this code, I got deleted from my computer.
+However, the only major python package I used in this project was pyautogui. So long as you add that to your (venv) your code should work fine.
